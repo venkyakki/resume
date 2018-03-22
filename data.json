@@ -1,8 +1,47 @@
 {
   "basics":{
-    "photo":"profile.png",
+    "photo":"images/profile.png",
     "name":"Nagalli Venkatesh",
     "email":"nagallivenky@gmail.com",
     "mobile":"7730017455"
+  },
+  "education":[
+    {
+      "course":"B.tech(Computer science and engineering )",
+      "college":["G.Pullaiah college of engineering and technology",
+        "2015-2019",
+        "75"
+      ]
+
+    },
+    {
+    "course":"Intermediate(MPC)",
+    "college":["Masters junior college",
+      "2013-2015",
+      "93"
+    ]
+
+  },
+  {
+  "course":"SSC",
+  "college":["S.S.H.S SCHOOL",
+    "2013",
+    "98"
+  ]
   }
+],
+"skills":[
+  {
+    "name":"Web Technologies",
+    "value":"HTML,CSS"
+  },
+  {
+  "name":"Operating Systems",
+  "value":"Linux,Windows"
+},
+{
+  "name":"Programming Languages",
+  "value":"C,C++,Java"
+}
+]
 }

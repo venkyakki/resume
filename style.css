@@ -5,7 +5,7 @@
   flex-direction: row;
 }
 .left{
-  width: 25%;
+  width:30%;
   border: 2px solid #c45e45;
   margin: 5px;
   padding: 5px 3px 1px 10px;
@@ -29,7 +29,7 @@
   color: #000;
 }
 h1{
-  color: #fff;
+  color: #000;
 }
 h2.hover{
   color: #fff;
@@ -72,7 +72,7 @@ h2{
     color: #000;
   }
   h1{
-    color: #fff;
+    color: #000;
   }
   h2.hover{
     color: #fff;
